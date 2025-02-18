@@ -2,6 +2,8 @@
 
 Este projeto utiliza uma placa Raspberry Pi Pico com um joystick analógico, LEDs PWM e um display SSD1306 I2C para criar uma interface interativa. A posição do joystick controla o brilho dos LEDs, e o display exibe uma animação de retângulos e um marcador que se move conforme o joystick é manipulado. Além disso, o código inclui o controle de LEDs com interrupções e debounce.
 
+▶️Video do YouTube https://youtu.be/Radfk8Z0A-Q▶️
+
 ## Componentes Utilizados
 
 - **Raspberry Pi Pico**: Placa de desenvolvimento com microcontrolador RP2040.
